@@ -10,5 +10,12 @@ This repository contains:
 - My Vial keymap file
 
 ![lila](./images/lila.jpeg)
+
+## PCB
+
 ![front](./images/front.png)
 ![back](./images/back.png)
+
+## Keymap
+
+![keymap](./images/keymap.png)
