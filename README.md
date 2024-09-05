@@ -5,7 +5,7 @@ A 30 key version of the fantastic [Sweep 2.2](https://github.com/davidphilipbarr
 ![keeb](./images/keeb.jpeg)
 
 This repository contains:
-- Gerber file (comptatible for [JLCPCB](https://jlcpcb.com))
+- Gerber file (comptatible with [JLCPCB](https://jlcpcb.com))
 - Kicad file
 - My Vial keymap file
 
