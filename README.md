@@ -18,4 +18,6 @@ This repository contains:
 
 ## Keymap
 
-![keymap](./images/keymap.png)
+I highly rely on combos from the main layer.
+
+![keymap](./images/keymap.svg)
