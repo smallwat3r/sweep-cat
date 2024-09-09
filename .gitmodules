@@ -1,0 +1,3 @@
+[submodule "vial"]
+	path = vial
+	url = https://github.com/smallwat3r/30-keys-vial-keymap.git
