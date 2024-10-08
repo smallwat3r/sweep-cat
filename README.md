@@ -1,10 +1,10 @@
 # Sweep Cat
 
-A 30 keys version of the fantastic [Sweep 2.2](https://github.com/davidphilipbarr/Sweep), featuring my cat, Lila.
+A 30-key version of the fantastic [Sweep 2.2](https://github.com/davidphilipbarr/Sweep), featuring my cat, Lila.
 
 ## v2
 
-This newer version adds some slight angle to the two outermost columns, which makes it more confortable and natural to type on.
+This newer version adds some slight angle to the two outermost columns, which makes it more comfortable and natural to type on.
 
 ![v2](./images/v2.png)
 ![pcbv2](./images/pcb_v2.png)
