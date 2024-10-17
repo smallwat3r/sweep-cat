@@ -25,4 +25,4 @@ This repository contains:
 
 ## Keymap
 
-![keymap](https://github.com/smallwat3r/30-keys-vial-keymap/blob/main/images/keymap.svg)
+![keymap](https://github.com/smallwat3r/30-keys-vial-keymap/blob/main/images/keymap.png)
