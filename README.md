@@ -14,6 +14,8 @@ This newer version adds some slight angle to the two outermost columns, which ma
 
 ## v1
 
+This is the original version of the Sweep Cat.
+
 ![v1](./images/v1.png)
 ![pcbv1](./images/pcb_v1.png)
 
