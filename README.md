@@ -6,6 +6,9 @@ A 30-key version of the fantastic [Sweep 2.2](https://github.com/davidphilipbarr
 
 This newer version adds some slight angle to the two outermost columns, which makes it more comfortable and natural to type on.
 
+- Splay on pinkie finger: 8°
+- Splay on ring finger: 3°
+
 ![v2](./images/v2.png)
 ![pcbv2](./images/pcb_v2.png)
 
