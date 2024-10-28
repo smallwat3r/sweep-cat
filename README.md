@@ -27,7 +27,3 @@ This repository contains:
 - My Vial keymap file
 
 ![lila](./images/lila.png)
-
-## Keymap
-
-![keymap](https://github.com/smallwat3r/vial-keymap/blob/main/images/keymap.png)
