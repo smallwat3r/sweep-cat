@@ -24,6 +24,5 @@ This is the original version of the Sweep Cat.
 This repository contains:
 - Gerber files (comptatible with [JLCPCB](https://jlcpcb.com))
 - Kicad files
-- My Vial keymap file
 
 ![lila](./images/lila.png)
